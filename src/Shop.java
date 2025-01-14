@@ -18,4 +18,11 @@ public class Shop {
         public String getLocation() {
             return location;
         }
+
+        @Override
+        public String toString() {
+
+            return "Shop name: " + storeName + ", Location" + location;
+
+        }
 }

@@ -3,8 +3,6 @@ import java.util.Scanner;
 // Make notes of everything so that you can get used to vocab
 public class App {
     public static void main(String[] args) throws Exception {
-      
-        
 
         // Greet User
         Scanner scanner = new Scanner(System.in);
