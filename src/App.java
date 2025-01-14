@@ -1,29 +1,10 @@
 import java.util.Scanner;
 
 // Make notes of everything so that you can get used to vocab
-
 public class App {
     public static void main(String[] args) throws Exception {
-        // Define the Shop class
-        class Shop {
-            private String storeName;
-            private String location;
-
-            // Constructor
-            public Shop(String storeName, String location) {
-                this.storeName = storeName;
-                this.location = location;
-            }
-
-            // Getter methods
-            public String getStoreName() {
-                return storeName;
-            }
-
-            public String getLocation() {
-                return location;
-            }
-        }
+      
+        
 
         // Greet User
         Scanner scanner = new Scanner(System.in);
